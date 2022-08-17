@@ -1,0 +1,6 @@
+if game.PlaceId == 9285238704 then 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/boomcacas/androstenedione/main/hub"))()
+else
+game.Players.LocalPlayer:Kick("Not a supported game .gg/wZh28cAm57")
+end
