@@ -1,4 +1,4 @@
-if game.PlaceId == 9285238704 then loadstring(game:HttpGet("https://raw.githubusercontent.com/boomcacas/androstenedione/main/raceclickers"))()
+if game.PlaceId == 9285238704 or 11275730600 then loadstring(game:HttpGet("https://raw.githubusercontent.com/boomcacas/androstenedione/main/raceclickers"))()
 else
 game.Players.LocalPlayer:Kick("Not a supported game .gg/wZh28cAm57")
 end
